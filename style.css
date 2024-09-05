@@ -2,15 +2,36 @@
     background-color: rgb(205, 0, 0);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: small;
+    font-size: x-large;
+    
+    
 }
+
+  
+
 #pink{
     background-color: rgb(255, 199, 179);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: small;
+    font-size: larger;
 }
 #pink2{
     background-color: bisque;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: small;
+    font-size: larger;
+}
+table{
+    width: 1900px;
+    height: 500px;
+}
+
+
+
+.font{
+    background-color: rgb(226, 50, 50);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 90px;
+    padding: 10px;
+    color: azure;
+     border: solid black;
 }
